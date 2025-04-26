@@ -55,7 +55,7 @@ Contiene datos sobre campañas de marketing directo (llamadas telefónicas) de u
 | User: | David Gutierrez Chaves |
 |------|--------|
 | Code: | 506222728 |
-| Subject: | Visualización De Datos Electiva-II |
+| Subject: | Big Data Electiva-I |
 | Institution: | Fundación Universitaria Konrad Lorenz |
 | Institutional email | david.gutierrec@konradlorenz.edu.co |
   
@@ -63,4 +63,4 @@ Contiene datos sobre campañas de marketing directo (llamadas telefónicas) de u
 ## Created By:
     https://github.com/dg2c4
     
-### *Date:* 04/04/2025 - 26/04/2025
+### *Date:* 05/04/2025 - 26/04/2025
